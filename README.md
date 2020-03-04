@@ -5,6 +5,6 @@ here loaded DiCE is an objective function or a way to estimate high-order gratit
 
 also here is a personal notes in chinese about the thesis, see "9026.pdf"
 # 1 environment
-python3.7.5, depencies see "requirements.txt"
+python3.7.5, dependencies see "requirements.txt"
 # 2 notes
 pylint may show "torch.tensor is not callable", shield the pylint or just ignore and run 
